@@ -1,0 +1,76 @@
+- ------------------------------------------------
+- 	👩‍💻 Curso para consumir APIs con Python
+- ------------------------------------------------
+
+BLOQUE I
+¿Qué son los servicios web?
+- Protocolo HTTP
+- Verbos de HTTP
+- Objetos JSON
+
+BLOQUE II
+Libreria REQUEST
+
+BLOQUE III
+PROYECTO
+
+
+MODULO I
+---------------
+
+🔶 PROTOCOLO 🔶
+
+HTTP || Hypertext transfer Protocol
+--> Los datos son enviados en texto plano
+
+HTTPS <>  Protocolo SEGURO de transferencia de HyperTexto
+--> Crea una conexion segura encriptada entre el CLIENTE y el SERVIDOR
+
+*STATELEES*: 
+Cuando la comunicacion entte el cliente y el servidor haya culminado toda la informacion se pierde.
+Un SERVIDOR trata CADA PETICION COMO una NUEVA peticion de un cliente nuevo
+
+Toda informacion de la conexión debe ser almacenada e manera externa (Cookies/Sesiones)
+ 
+_HTTP Y HTTPS son protocolos de comunicacion (enviar y recibir) para transferir informacion 
+a traves de internet)_
+Ambos protocolos no almacenan ningun tipo de estado una vez la comunicación haya finalizado.
+
+
+🔶 METODOS (VERBOS) DE PROTOCOLO 🔶
+Que accion es lo que debe realizar nuestro servidor y que es lo que necesita nuestro cliente 
+
+GET: 
+Permite OBTENER un recurso por parte del Servidor.
+Por Ejemplo: Una pagina web, un video, una imagen, un objeto en formato Json, etc.
+
+POSTS:
+Permite CREAR recursos en el servidor.
+Por Ejemplo: Secciones, imagenes, nuevos archivos, nuevos registros en la BD, etc.
+
+PUT:
+ACTUALIZAR algun recurso en nuestro servidor.
+Por Ejemplo: Actualizar un registro en la BD, modificar archivos ya existentes.
+
+DELETE:
+ELIMINAR un recurso por parte del servidor
+Por Ejemplo: Eliminar un registro en la BD, Eliminar archivos alojados en el servidor.
+
+
+🔶 OBJETOS JSON 🔶
+JSON <> JavaScrip Object Notation
+Formato que permite representar dato de una forma sencilla
+
+
+MODULO II
+---------------
+
+🔗 [Link de Servidor prueba Verbos HTTP](https://httpbin.org/#/HTTP_Methods)
+🔗 [Link de Servidor prueba Random User](https://randomuser.me/)
+
+
+# Peticion GET
+
+
+
+
