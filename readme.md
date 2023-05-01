@@ -2,7 +2,7 @@
 
 ▶️ **#Aprende, #Experimenta** y luego **#Aplica**
 
-![Banner bootcamp](https://raw.githubusercontent.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/main/resources/images/Banner_curso.png)
+![Banner bootcamp](https://raw.githubusercontent.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/main/resources/Banner_curso.png)
 
 ---
 ## 📌 MÓDULOS
