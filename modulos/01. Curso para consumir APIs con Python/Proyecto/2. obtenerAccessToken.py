@@ -8,7 +8,7 @@ URL = 'https://github.com/login/oauth/access_token'
 params = {
     'client_id':CLIENT_ID,
     'client_secret':SECRET_ID,
-    'code':code
+    'code':code 
 
 }
 
@@ -20,4 +20,5 @@ response = requests.post(URL, params=params, headers = headers)
 
 if response.status_code == 200:
     payload = response.json()
-    print(payload)
+    print(payload) 
+    # AccessToken

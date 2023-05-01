@@ -11,14 +11,14 @@ from settings import SECRET_ID
 # ---------------------------------------------------
 # Aplicacion en el item de: Settings/ Developer settings
 
-
 # (AUTOMATICO)
-# Obtener codigo
+# ---------------------------------------------------
+# Obtener codigo (Token)
 # Obtener AccesToken
-# Obtener al usuario Autenticado
+# Obtener Usuario Autenticado
 
 
-# Obtener codigo
+# OBTENER CODIGO
 # ---------------------------------------------------
 # Esta funcion nos va a traer el codigo del usuario al loguearse con github a la aplicación
 def get_url_code():
@@ -33,7 +33,7 @@ def get_url_code():
     response = requests.get(url, params=params)
     return response.url
 
-# Obtener AccesToken
+# OBTENNER ACCESS TOKEN
 # ---------------------------------------------------
 # Esta funcion nos dara un token para que el usuario pueda navegar
 def get_access_token(code):
@@ -57,9 +57,8 @@ def get_access_token(code):
         return payload.get('access_token')
 
 
-# Obtener al usuario Autenticado
+# OBTENER EL USUARIO AUTENTICADO
 # ---------------------------------------------------
-# 
 
 def get_user(access_token):
     print("> get_access_token")

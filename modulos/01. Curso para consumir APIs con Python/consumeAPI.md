@@ -65,7 +65,8 @@ Por estar dentro de un workspace tengo que dirigirme a la carpeta del proyecto p
 
 
 🔶 METODOS (VERBOS) DE PROTOCOLO 🔶
-        Que accion es lo que debe realizar nuestro servidor y que es lo que necesita nuestro cliente 
+
+Que accion es lo que debe realizar nuestro servidor y que es lo que necesita nuestro cliente 
 
         GET: 
         Permite OBTENER un recurso por parte del Servidor.
@@ -92,33 +93,38 @@ Por estar dentro de un workspace tengo que dirigirme a la carpeta del proyecto p
 
 ## MODULO II
 
-🔗 [Link de codigo de GET/POSTS/PUT/DELETE](https://github.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/tree/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/codigos)
-
 🔗 [Link de Servidor prueba Verbos HTTP](https://httpbin.org/#/HTTP_Methods)
 
 🔗 [Link de Servidor prueba Random User](https://randomuser.me/)
 
-![Banner bootcamp](https://raw.githubusercontent.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/Verbos%20HTTP.png)
+🔗 [Link del codigo de GET/POSTS/PUT/DELETE 🛠](https://github.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/tree/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/codigos)
+
+![img](https://raw.githubusercontent.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/resources/Verbos%20HTTP.png)
+
+
 
 # MODULO III
 
-Crear aplicacion con github
+## Crear aplicacion con github
 
 - PASO 1: 
 
   Ingresar al sgte [🔗 Link Github Setting](https://github.com/settings/profile) , luego dirigirse a  `<> Developer setting`
 
 - PASO 2:
-  Nos dirigira a esta seccion:     
-  ![Banner bootcamp]()
+
+  Nos dirigira a esta seccion: 
+
+  ![img](https://raw.githubusercontent.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/resources/createAplicaction.png)
 
   Click en `OAuth Apps` y en esta seccion presionar  `New OAuth App`.
   Luego llenar :
 
-  ![Banner bootcamp]()
+  ![img](https://raw.githubusercontent.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/resources/detailsAplicaction2.png)
 
+  Hacer check en `Enable Device Flow` y por ultimo click en `Register application` y te debe dar dos *Client's de interes*; estos nos ayudaran para implementar la autenticacion OAuth.
 
-  Hacer check en `Enable Device Flow` y por ultimo click en `Register application` y te debe dar dos *Client's de interes*; estos nos ayudaran para implementar la autenticacion OAuth
+  ![img](https://raw.githubusercontent.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/resources/clientsAplication3.png)
 
 - PASO 3:
 
@@ -127,10 +133,8 @@ Generar el codigo para realizar los sgtes pasos:
 - Obtener AccesToken
 - Obtener al usuario Autenticado
 
-🔗 [Link del codigo]()
+🔗 [Link del CODIGO para la APLICACIÓN](https://github.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/blob/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/Proyecto/main.py)
 
-
-
-https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps
+🔗 [Link de la DOCUMENTACION OFICIAL de GITHUB](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps)
 
 
