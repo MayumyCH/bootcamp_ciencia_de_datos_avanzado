@@ -15,3 +15,14 @@
 
 python main.py
 python get.py
+
+
+-- 
+# DIRECCIONARME AL MODULO DE INTERES
+cd modulos/'01. Curso para consumir APIs con Python'
+
+# ACTIVAR EL ENVIROMENTS
+source env/Scripts/activate
+
+# EJECUTAR EL CODIGO
+python main.py

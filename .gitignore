@@ -4,4 +4,5 @@ env
 .env
 .Rproj.user
 
-Curso para consumir APIs con Python/env
+modulos/'01. Curso para consumir APIs con Python'/__pycache__
+modulos/'01. Curso para consumir APIs con Python'/env

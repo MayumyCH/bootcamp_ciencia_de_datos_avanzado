@@ -69,8 +69,10 @@ MODULO II
 🔗 [Link de Servidor prueba Random User](https://randomuser.me/)
 
 
-# Peticion GET
 
+MODULO III
+---------------
 
+https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps
 
 

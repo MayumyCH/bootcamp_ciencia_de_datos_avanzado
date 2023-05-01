@@ -1,5 +1,6 @@
 import requests
-from getpass import getpass # Pedir una contrasenia y que esta no se exponga en la terminal
+from getpass import getpass 
+# Pedir una contrasenia y que esta no se exponga en la terminal
 
 # BASIC AUTHENTICATION
 URL = 'https://httpbin.org/basic-auth/cody/1234'
