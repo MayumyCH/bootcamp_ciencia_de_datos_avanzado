@@ -128,13 +128,16 @@ Que accion es lo que debe realizar nuestro servidor y que es lo que necesita nue
 
 - PASO 3:
 
-Generar el codigo para realizar los sgtes pasos:
-- Obtener codigo
-- Obtener AccesToken
-- Obtener al usuario Autenticado
+  Generar el codigo para realizar los sgtes pasos:
+  - Obtener codigo
+  - Obtener AccesToken
+  - Obtener al usuario Autenticado
 
-🔗 [Link del CODIGO para la APLICACIÓN](https://github.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/blob/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/Proyecto/main.py)
 
-🔗 [Link de la DOCUMENTACION OFICIAL de GITHUB](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps)
+  Link importantes
+
+  🔗 [Link del CODIGO para la APLICACIÓN](https://github.com/MayumyCH/bootcamp_ciencia_de_datos_avanzado/blob/main/modulos/01.%20Curso%20para%20consumir%20APIs%20con%20Python/Proyecto/main.py)
+
+  🔗 [Link de la DOCUMENTACION OFICIAL de GITHUB para la APLICACION](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps)
 
 
